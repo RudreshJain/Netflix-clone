@@ -1,2 +1,2 @@
 # Netflix-clone
-Author - Rudresh Jain
+Author - Rudresh Jain (new)
